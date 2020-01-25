@@ -1,0 +1,11 @@
+--R script¡G¤U¸üRColorBrewer Package
+lib.SQL <- "C:\\Program Files\\Microsoft SQL Server\\MSSQL13.SQL2016\\R_SERVICES\\library"
+install.packages("RColorBrewer",lib=lib.SQL)
+
+--R script¡G¤U¸üslam Package
+lib.SQL <- "C:\\Program Files\\Microsoft SQL Server \\MSSQL13.MSSQLSERVER\\R_SERVICES\\library"
+install.packages("slam",lib=lib.SQL)
+
+--R script¡G¤U¸üwordcloud Package
+lib.SQL <- "C:\\Program Files\\Microsoft SQL Server\\MSSQL13.SQL2016\\R_SERVICES\\library"
+install.packages("wordcloud",lib=lib.SQL)

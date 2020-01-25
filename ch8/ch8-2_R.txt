@@ -1,0 +1,7 @@
+--R script：請輸入完成後按ENTER執行
+lib.SQL <- "C:\\Program Files\\Microsoft SQL Server \\MSSQL13.MSSQLSERVER\\R_SERVICES\\library"
+install.packages("plyr",lib=lib.SQL)
+
+--如果缺少Rcpp套件才能執行plyr套件，請下載Rcpp套件
+lib.SQL <- "C:\\Program Files\\Microsoft SQL Server \\MSSQL13.MSSQLSERVER\\R_SERVICES\\library"
+install.packages("plyr",lib=lib.SQL)
